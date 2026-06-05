@@ -1,0 +1,17 @@
+name: flutter_ecg_monitor_example
+description: Example app for flutter_ecg_monitor.
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_ecg_monitor:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
