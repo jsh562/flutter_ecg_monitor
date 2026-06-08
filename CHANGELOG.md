@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-06-07
+
+### Documentation
+- Added a demo screenshot of the ECG waveform to the README and the pub.dev screenshot gallery.
+
+## [1.0.0] - 2026-06-07
+
+### Added
+- First stable release published to pub.dev.
+
 ## [0.1.0] - 2026-04-15
 
 ### Added
@@ -56,4 +66,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Cursor wraps seamlessly from right edge to left edge
 - Trail persists across painter recreation (static state)
 
+[1.0.1]: https://github.com/jsh562/flutter_ecg_monitor/releases/tag/v1.0.1
+[1.0.0]: https://github.com/jsh562/flutter_ecg_monitor/releases/tag/v1.0.0
 [0.1.0]: https://github.com/jsh562/flutter_ecg_monitor/releases/tag/v0.1.0

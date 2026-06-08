@@ -3,6 +3,8 @@
 A realistic, animated ECG / heartbeat-monitor widget for Flutter.
 Renders a moving phosphor-dot cursor that draws an authentic-looking PQRST waveform gaussian trail behind it — simulating a bedside cardiac ECG monitor.
 
+![ECG monitor demo](https://raw.githubusercontent.com/jsh562/flutter_ecg_monitor/main/doc/ecg_demo.jpg)
+
 ## Disclaimer
 
 This is not a real ECG, but rather a realistic-looking cosmetic animation. It's for fun and entertainment purposes - Not designed for use in a medical or professional context. If you would like modifications for a medical or professional use, please contact James Han (jsh562@gmail.com).

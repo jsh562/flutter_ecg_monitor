@@ -3,9 +3,13 @@ description: >
   A realistic, animated ECG / heartbeat monitor widget.
   Licensed under Han Conditional Fair Source (HCFS) v1.0. 
   Free for hobbyists; paid or open-source for commercial use.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/jsh562/flutter_ecg_monitor
 repository: https://github.com/jsh562/flutter_ecg_monitor
+
+screenshots:
+  - description: 'Animated ECG / heartbeat waveform rendered by EcgMonitor.'
+    path: doc/ecg_demo.jpg
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
